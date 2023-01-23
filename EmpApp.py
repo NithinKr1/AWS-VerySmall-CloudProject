@@ -82,4 +82,4 @@ def AddEmp():
 
 
 if __name__ == '__main__':
-    app.run(host='100.25.2.207', port=80, debug=True)
+    app.run(host='0.0.0.0', debug=True)
